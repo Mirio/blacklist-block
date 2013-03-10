@@ -1,0 +1,6 @@
+How To use:
+# python blacklistblock.py
+or
+sudo python blacklistblock.py
+
+This script add iptables rule for block Tor Exit / Blacklist Ip (Botnet...)
